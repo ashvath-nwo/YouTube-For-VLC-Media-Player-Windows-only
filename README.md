@@ -9,3 +9,5 @@ Windows 10 version 1803 or higher
 curl is not included. Might add later for support
 # Preview 
 <img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/user-attachments/assets/f142e9ee-8461-4cdf-8d45-73caa8f5d6c8" />
+<img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/ae900087-df84-478e-830e-f0e8086d62b8" />
+
