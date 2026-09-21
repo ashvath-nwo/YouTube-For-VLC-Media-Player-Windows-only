@@ -4,7 +4,9 @@ It automatically installs dependecies when ran for first time.
 AND it do not eat storage!1!1!11!
 # Requirements
 VLC x86 or x64
-Windows 10 version 1803 or higher
+Windows 10 version 1803 or higher.
+If you have curl setup in Older Versions
+Windows 10 version 1803 or older version with Windows Updated.
 # Why not older windows?
 curl is not included. Might add later for support
 # Preview 
