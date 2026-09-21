@@ -8,7 +8,9 @@ Windows 10 version 1803 or higher.
 If you have curl setup in Older Versions
 Windows 10 version 1803 or older version with Windows Updated.
 # Why not older windows?
-curl is not included. Might add later for support
+curl is not included. You can add it when you fully update Windows and add curl's bin folder to PATH.
+Tested on Windows 7.
+But, might add compatibility for older windows.
 # Preview 
 Menu
 <img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/user-attachments/assets/f142e9ee-8461-4cdf-8d45-73caa8f5d6c8" />
