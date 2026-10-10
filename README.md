@@ -12,14 +12,19 @@ added support for old hardware
 Yes, its official. Added automatic setup for Windows 7 and higher
 # Preview 
 Menu
-<img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/user-attachments/assets/f142e9ee-8461-4cdf-8d45-73caa8f5d6c8" />
-Play menu
-<img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/ashvath-nwo/YouTube-For-VLC-Media-Player-Windows-only/blob/main/Screenshot%202026-09-19%20165037.png" />
+<img width="1476" height="753" alt="image" src="https://github.com/user-attachments/assets/59dde81c-4c66-48f5-a73f-7db5c8f67149" />
+Play URL
+<img width="1471" height="746" alt="image" src="https://github.com/user-attachments/assets/66c16229-0bb5-4495-b494-dfb4a2b15c1a" />
+Search Video
+<img width="1476" height="755" alt="image" src="https://github.com/user-attachments/assets/2a568d1b-c68f-4413-a0c2-44d463d1f879" />
+With Video Searched
+<img width="1475" height="742" alt="image" src="https://github.com/user-attachments/assets/88bc9c0a-47b2-43e8-b401-d81123c21950" />
 Options
-<img width="1093" height="634" alt="Screenshot 2026-09-15 151823" src="https://github.com/ashvath-nwo/YouTube-For-VLC-Media-Player-Windows-only/blob/main/Screenshot%202026-09-19%20165200.png" />
+<img width="1472" height="748" alt="image" src="https://github.com/user-attachments/assets/c2a2bf2a-f389-46f4-a9f8-a1739d5052cf" />
 **What's new?**
 Added Automatic setup for Older Windows (you need the BITS service available)
 #
+Added Search Function
 **How do i check if the BITS service is available in my Computer?**
 #
 Follow these steps
