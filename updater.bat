@@ -1,5 +1,4 @@
 title Option 1 : Update of Main engine & Batch file
-echo Version:YouTube for VLC Media Player for x86_x64 version 1.5
 echo Updation of yt-dlp. Please wait...
 yt-dlp.exe --update
 echo Updation of batch file... Please wait
