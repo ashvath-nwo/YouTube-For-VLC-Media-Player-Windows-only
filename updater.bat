@@ -1,4 +1,4 @@
-title Option 1 : Update of Main engine & Batch file
+title "Option 1 : Update of Main engine & Batch file"
 echo Updation of yt-dlp. Please wait...
 "%programfiles%\VideoLAN\VLC\yt-dlp.exe" --update
 "%programfiles(x86)%\VideoLAN\VLC\yt-dlp.exe" --update
