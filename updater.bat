@@ -3,6 +3,7 @@ echo Updation of yt-dlp. Please wait...
 "%programfiles%\VideoLAN\VLC\yt-dlp.exe" --update
 "%programfiles(x86)%\VideoLAN\VLC\yt-dlp.exe" --update
 echo Updation of batch file... Please wait
+del yt.for.vlc.x86_x64.bat -y 
 bitsadmin /transfer batchDownload /download /priority normal "https://github.com/ashvath-nwo/YouTube-For-VLC-Media-Player-Windows-only/releases/latest/download/yt.for.vlc.x86_x64.bat" "%CD%\yt.for.vlc.x86_x64.bat" >nul
 echo Completed. Restart needed.
 pause>nul
