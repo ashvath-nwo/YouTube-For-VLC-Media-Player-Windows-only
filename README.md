@@ -7,6 +7,8 @@ VLC x86 or x64 or arm64
 #
 Windows 7 RTM or higher or windows compatible with arm64.
 #
+and NO, i386(32 bit) is NOT supported!
+#
 added support for old hardware
 # Added support for old Windows (Windows 10 1709 or lower)
 Yes, its official. Added automatic setup for Windows 7 and higher
