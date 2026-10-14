@@ -1,7 +1,7 @@
 # YouTube Loader for VLC Media Player
 Plays YouTube videos in VLC without sacrificing storage space. (Only for Windows)
-It automatically installs dependecies when ran for first time.
-AND it do not eat storage!1!1!11!
+It automatically installs dependencies when ran for first time.
+AND it do not eat storage!1!1!11!(not that much.)
 # Requirements
 VLC x86 or x64 or arm64
 #
