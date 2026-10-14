@@ -1,11 +1,21 @@
 # YouTube Loader for VLC Media Player
 Plays YouTube videos in VLC without sacrificing storage space. (Only for Windows)
-It automatically installs dependencies when ran for first time.
-AND it do not eat storage!1!1!11!(not that much.)
-# Requirements
-VLC x86 or x64 or arm64
 #
-Windows 7 RTM or higher or windows compatible with arm64.
+It automatically installs dependencies when ran for first time.
+#
+AND it do not eat storage!1!1!11!(not that much.)
+# 
+Python for Windows 7/2008 R2 mod by https://github.com/Alex313031/
+Mod link https://github.com/Alex313031/Python-Win7
+# Requirements
+# VLC Versions
+VLC x86 or x64 or arm64
+# Regular Versions
+**Windows 7 or higher or windows compatible with arm64.**
+# Server versions
+**Windows Server 2008 R2 and Higher or Windows Server compatible with arm64**
+# 
+windows 7 and Windows Server 2008 R2 users must have the OS fully updated. Else it wont work because Python Windows7/2008 R2 mod does not work with RTM Release
 #
 and NO, i386(32 bit) is NOT supported!
 #
