@@ -6,7 +6,10 @@ It automatically installs dependencies when ran for first time.
 AND it do not eat storage!1!1!11!(not that much.)
 # 
 Python for Windows 7/2008 R2 mod by https://github.com/Alex313031/
+#
 Mod link https://github.com/Alex313031/Python-Win7
+# Note from Python Mod Guy
+_Note: On Windows Vista SP2, Windows Server 2008 SP2, Windows 7 SP1, and Windows Server 2008 R2 SP1, update KB2533623 must be installed for Python to run. Ensure that your computer is up-to-date via Windows Update._
 # Requirements
 # VLC Versions
 VLC x86 or x64 or arm64
