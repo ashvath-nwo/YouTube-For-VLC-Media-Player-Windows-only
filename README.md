@@ -19,6 +19,8 @@ VLC x86 or x64 or arm64
 # Note for Older Windows 
 _Note: On Windows Vista SP2, Windows Server 2008 SP2, Windows 7 SP1, and Windows Server 2008 R2 SP1, update KB2533623 must be installed for Python to run. Ensure that your computer is up-to-date via Windows Update._
 #
+However, RTM is NOT supported! I tried it on a VM and didnt work. Try installing Windows 7 SP1 (or windows vista sp2 is vista) with all updates
+#
 as said on https://github.com/Alex313031/Python-Win7/blob/master/README.md
 #
 and NO, i386(32 bit) is NOT supported!
