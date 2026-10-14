@@ -22,10 +22,8 @@ _Note: On Windows Vista SP2, Windows Server 2008 SP2, Windows 7 SP1, and Windows
 as said on https://github.com/Alex313031/Python-Win7/blob/master/README.md
 #
 and NO, i386(32 bit) is NOT supported!
-#
-added support for old hardware
-# Added support for old Windows (Windows 10 1709 or lower)
-Yes, its official. Added automatic setup for Windows 7 and higher
+# Added support for old Windows (Windows 10 1709 to Windows Vista SP2)
+Yes, its official. Added automatic setup for Windows Vista SP2 and higher
 # Preview 
 Menu
 <img width="1476" height="753" alt="image" src="https://github.com/user-attachments/assets/59dde81c-4c66-48f5-a73f-7db5c8f67149" />
