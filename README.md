@@ -11,11 +11,11 @@ Mod link https://github.com/Alex313031/Python-Win7
 # VLC Versions
 VLC x86 or x64 or arm64
 # Regular Versions
-**Windows 7 or higher or windows compatible with arm64.**
+**Windows Vista SP2 or higher or windows compatible with arm64.**
 # Server versions
-**Windows Server 2008 R2 and Higher or Windows Server compatible with arm64**
+**Windows Server 2008 SP2 and Higher or Windows Server compatible with arm64**
 # 
-windows 7 and Windows Server 2008 R2 users must have the OS fully updated. Else it wont work because Python Windows7/2008 R2 mod does not work with RTM Release
+Windows Vista, Server 2008, 7, Server 2008 R2 users must have the OS fully updated. Else it wont work because Python Windows7/2008 R2 mod does not work with RTM Release
 #
 and NO, i386(32 bit) is NOT supported!
 #
