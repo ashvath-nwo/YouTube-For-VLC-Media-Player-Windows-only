@@ -38,51 +38,26 @@ With Video Searched
 Options
 <img width="1472" height="748" alt="image" src="https://github.com/user-attachments/assets/c2a2bf2a-f389-46f4-a9f8-a1739d5052cf" />
 **What's new?**
-Added Automatic setup for Older Windows (you need the BITS service available)
+Added Automatic setup for Older Windows 
+need curl installer(present in latest release) for automatic installer to work
+# How do I check if curl is present in my computer?
+Open Run Dialog. (Press Windows + R)
+<img width="447" height="257" alt="image" src="https://github.com/user-attachments/assets/7281b963-e1a0-4df2-8411-e6ba9d02b63a" />
+Type "CMD"
+<img width="447" height="262" alt="image" src="https://github.com/user-attachments/assets/6547a61e-e6f2-4df6-b619-96f98d5e6618" />
+Press OK
+<img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/a9cf7f80-94c8-42c7-ade5-5b496ccbf949" />
+This will appear
+<img width="1477" height="755" alt="image" src="https://github.com/user-attachments/assets/ae92cbf5-67cc-4302-a4a4-7abd54c75583" />
+This interface may be vary according to your version of windows
 #
-Added Search Function
-**How do i check if the BITS service is available in my Computer?**
+type "curl" & press enter
+<img width="1476" height="756" alt="image" src="https://github.com/user-attachments/assets/8fdaa784-876b-4576-b303-5f30b1c0b749" />
+For me, it exists by default.
 #
-Follow these steps
-#
-Click the Search Icon (or type to search in windows 10
-#
-<img width="346" height="48" alt="image" src="https://github.com/user-attachments/assets/8d08d6cc-37d5-47ab-b5c2-ac1f930db277" />
+If it says curl is not recognized as a internal command or like that, you may need to use the setup curl zip
 
-Search "Services"
 
-<img width="1300" height="1032" alt="image" src="https://github.com/user-attachments/assets/359a0e3d-1133-4887-bb06-27f5b6e6f99b" />
 
-Click "Open"
 
-<img width="942" height="393" alt="image" src="https://github.com/user-attachments/assets/c4e943bd-4a33-44fb-8240-62c12d58f63a" />
 
-Find "BITS"
-
-<img width="1000" height="733" alt="image" src="https://github.com/user-attachments/assets/78be8a0c-90e5-451f-a9b6-52c2ee9956b5" />
-
-**Find in Older Windows**
-
-Open Run prompt by Win+R
-
-<img width="440" height="262" alt="image" src="https://github.com/user-attachments/assets/1256444b-c1e5-47aa-8c71-bec784dd2bba" />
-
-Type "services.msc"
-
-<img width="443" height="261" alt="image" src="https://github.com/user-attachments/assets/c4ac060e-fb48-45bf-a059-3891f2fa7d3a" />
-
-Find "BITS"
-
-<img width="1000" height="733" alt="image" src="https://github.com/user-attachments/assets/78be8a0c-90e5-451f-a9b6-52c2ee9956b5" />
-
-if you don't find, do a in-place upgrade.
-#
-Guide: https://www.techtarget.com/enterprise-software/tip/How-to-perform-an-in-place-upgrade-to-Windows-11
-#
-For older windows, if you don't find it, Download your Windows Version ISO in here:
-# https://bobpony.com/downloads
-Choose the correct version for your Windows.
-#
-<img width="1917" height="776" alt="image" src="https://github.com/user-attachments/assets/2c8a746b-d576-408d-8749-a6adefc2fc3f" />
-#
-Download the iso, extract using 7-zip, open setup.exe and press upgrade.
