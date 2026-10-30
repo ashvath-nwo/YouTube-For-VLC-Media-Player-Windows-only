@@ -5,9 +5,9 @@ It automatically installs dependencies when ran for first time.
 #
 AND it do not eat storage!1!1!11!(not that much.)
 # 
-Python for Windows 7/2008 R2 mod by https://github.com/Alex313031/
+Python for Windows 7/2008 R2 mod by https://github.com/adang1345/
 #
-Mod link https://github.com/Alex313031/Python-Win7
+Mod link https://github.com/adang1345/PythonVista/
 # NEWS
 New update YTForVLC version 1.8 is available! Go ahead and update your batch file now!
 #
