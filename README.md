@@ -62,7 +62,7 @@ Windows 10 and higher
 https://www.python.org/downloads/windows/
 # 
 Windows Vista SP2 and Higher
-https://github.com/https://github.com/adang1345/PythonVista/releases/latest
+https://github.com/https://github.com/adang1345/PythonVista/releases/
 
 
 
